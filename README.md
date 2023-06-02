@@ -1,3 +1,3 @@
 # KoKoa Clone Update
 
-CSS hot so much better!
+HTML & CSS are so much fun!!
