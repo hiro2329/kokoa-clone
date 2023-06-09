@@ -12,4 +12,31 @@
 }
 .nav__link{
     color: #2e363e;
+    position: relative;
+}
+.nav__notification{
+    background-color: tomato;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    font-weight: 600;
+    left: 10px;
+    top: -10px;
+}
+.nav__notification--dott{
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 15px;
+    top: -5px;
 }
